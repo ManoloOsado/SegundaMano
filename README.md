@@ -1,0 +1,4 @@
+SegundaMano
+===========
+
+Proyecto PHP de 
